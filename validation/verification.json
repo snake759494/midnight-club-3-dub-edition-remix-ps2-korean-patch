@@ -1,0 +1,8 @@
+{
+  "rebuild_output_sha256_match": true,
+  "rebuild_without_source_text_identical": true,
+  "xdelta_roundtrip_sha256_match": true,
+  "widescreen_patch_addresses_unchanged_in_korean_elf": "0x527E14/0x527E18 original values",
+  "emulator": "PCSX2 2.2.0",
+  "screens_checked": ["boot", "legal notice", "title", "profile", "main menu", "options", "career/tokyo menus", "loading screen", "garage manage/buy/performance shop", "city driving HUD", "pause menu", "tutorial video subtitles", "nav system", "16:9 widescreen + HUD/menu/garage fix"]
+}

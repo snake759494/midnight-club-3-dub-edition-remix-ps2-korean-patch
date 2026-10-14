@@ -1,0 +1,17 @@
+{
+  "tag": "v1.2",
+  "game": "Midnight Club 3 - DUB Edition Remix (USA)",
+  "serial": "SLUS-21355",
+  "source_sha256": "de199f7e7f57b7cb603a129217f7482d50644fd66558450dfeb5612857b732f9",
+  "output_sha256": "a1738d7ecd1d14b3abb7f27fb2065ffb5252ac3630903269df6a00fb167530b5",
+  "patch_sha256": "1527f2d702f8c407e13e8438a32204c5e78f99f2e0e4ce50d0e04a14677b1981",
+  "patch_bytes": 4469764,
+  "runtime_scope": "PCSX2 boot/legal/title/profile/menus/loading/garage/city driving HUD/pause/subtitles/nav/widescreen checked; full game, online, race editor details and hardware unverified",
+  "assets": [
+    "Midnight_Club_3_DUB_Remix_PS2_KO_v1.2.xdelta",
+    "SLUS-21355_3021E351.pnach"
+  ],
+  "widescreen_pnach_sha256": "8946eac3d67c0984d3ee31932d122883a40f2d5b591fd4248f98f9d5c8173309",
+  "game_crc_original": "60A42FF5",
+  "game_crc_korean": "3021E351"
+}

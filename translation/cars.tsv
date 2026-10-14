@@ -1,0 +1,128 @@
+# 차량·바이크 이름(제조사·모델). '=' 로 시작하는 줄은 문자열 전체가 같을 때만 바꿈, 나머지는 문장 안에서도 바꿈(긴 것 우선)
+Mercedes Benz SL55 AMG 	메르세데스 벤츠 SL55 AMG 
+Mercedes Benz CL55 AMG	메르세데스 벤츠 CL55 AMG
+Mercedes Benz G55 AMG	메르세데스 벤츠 G55 AMG
+Mercedes Benz	메르세데스 벤츠
+SLR McLaren	SLR 맥라렌
+Chrysler ME Four-Twelve	크라이슬러 ME 포-트웰브
+ME Four-Twelve	ME 포-트웰브
+Four-Twelve	포-트웰브
+Chrysler 300C	크라이슬러 300C
+Chrysler	크라이슬러
+Cadillac Escalade EXT	캐딜락 에스컬레이드 EXT
+Cadillac Escalade	캐딜락 에스컬레이드
+Escalade EXT	에스컬레이드 EXT
+Escalade	에스컬레이드
+Cadillac Cien	캐딜락 시엔
+Cadillac Sixteen	캐딜락 식스틴
+Cadillac Deville	캐딜락 드빌
+Cadillac	캐딜락
+Deville	드빌
+Cien	시엔
+Sixteen	식스틴
+Chevy Cobalt SS	쉐비 코발트 SS
+Cobalt SS	코발트 SS
+Chevy Fleetline	쉐비 플리트라인
+Fleetline	플리트라인
+Chevy Bel Air	쉐비 벨 에어
+Bel Air	벨 에어
+Chevy Corvette	쉐비 콜벳
+Corvette Z06	콜벳 Z06
+Corvette	콜벳
+Chevy Impala	쉐비 임팔라
+Impala SS	임팔라 SS
+Impala	임팔라
+Chevy	쉐비
+Chevrolet	쉐보레
+Camaro Z28	카마로 Z28
+Camaro	카마로
+Chevelle	셰벨
+El Camino SS	엘 카미노 SS
+El Camino	엘 카미노
+El Dorado	엘도라도
+=El dorado	엘도라도
+Monte Carlo	몬테카를로
+Silverado SS	실버라도 SS
+Yukon Denali	유콘 데날리
+Dodge Charger SRT8	닷지 차저 SRT8
+Dodge Magnum RT	닷지 매그넘 RT
+Charger SRT8	차저 SRT8
+Charger R/T	차저 R/T
+Charger	차저
+Magnum RT	매그넘 RT
+Viper GTS-R	바이퍼 GTS-R
+Ram SRT10	램 SRT10
+Dodge	닷지
+GTO	GTO
+Nissan Skyline	닛산 스카이라인
+Nissan Sport Concept	닛산 스포츠 콘셉트
+Sport Concept	스포츠 콘셉트
+Skyline	스카이라인
+Nissan	닛산
+Infiniti G35	인피니티 G35
+Infiniti	인피니티
+Lexus IS300	렉서스 IS300
+Lexus	렉서스
+Lancer Evolution VIII	랜서 에볼루션 VIII
+Mitsubishi	미쓰비시
+Evo VIII	에보 VIII
+Supra	수프라
+Scion TC	사이언 tC
+Scion	사이언
+Golf R32	골프 R32
+Jetta	제타
+Phaeton	페이톤
+Volkswagen	폭스바겐
+Lamborghini Gallardo	람보르기니 가야르도
+Lamborghini Murcielago	람보르기니 무르시엘라고
+Lamborghini Diablo	람보르기니 디아블로
+Lamborghini	람보르기니
+Gallardo	가야르도
+Murcielago	무르시엘라고
+Diablo	디아블로
+Pagani Zonda C 12 S	파가니 존다 C 12 S
+Zonda C 12 S	존다 C 12 S
+Pagani	파가니
+Gemballa F355	겜발라 F355
+Gemballa	겜발라
+Ferrari	페라리
+Saleen S7	살린 S7
+Saleen	살린
+Lotus Elise	로터스 엘리스
+Lotus Esprit	로터스 에스프리
+Elise	엘리스
+Esprit	에스프리
+Hummer H3T	허머 H3T
+Hummer	허머
+Ducati Paul Smart 1000	두카티 폴 스마트 1000
+Paul Smart 1000	폴 스마트 1000
+Ducati	두카티
+Kawasaki Ninja ZX 12R	가와사키 닌자 ZX 12R
+Ninja ZX 12R	닌자 ZX 12R
+Kawasaki	가와사키
+Hotmatch Skully	핫매치 스컬리
+Hotmatch Chingon 	핫매치 칭곤 
+Hotmatch Cuevito	핫매치 쿠에비토
+Hotmatch	핫매치
+West Coast Choppers	웨스트 코스트 초퍼스
+Turbo Coupe	터보 쿠페
+=Monster	몬스터
+=04 Monster	04 몬스터
+=04 Monster S4R	04 몬스터 S4R
+=Cuevito	쿠에비토
+=Chingon	칭곤
+=Skully	스컬리
+=Phaeton	페이톤
+=Ninja ZX 12R	닌자 ZX 12R
+=Chop Top	찹 톱
+Toyota	도요타
+Pontiac	폰티악
+Lotus	로터스
+El Diablo	엘 디아블로
+Rigid	리지드
+Soft Tail	소프트 테일
+=21 Doom	21 둠
+=21 Edge	21 엣지
+=21 Kid Rock	21 키드 록
+=21 T-Bone	21 티본
+=T-Bone	티본
